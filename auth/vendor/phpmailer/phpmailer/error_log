@@ -1,0 +1,5 @@
+[19-Dec-2022 22:00:14 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/get_oauth_token.php on line 73
+[19-Dec-2022 22:00:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/get_oauth_token.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/get_oauth_token.php on line 73

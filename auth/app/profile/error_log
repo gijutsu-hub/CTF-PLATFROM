@@ -1,0 +1,814 @@
+[25-Oct-2022 14:42:08 UTC] PHP Warning:  Undefined array key "login" in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 24
+[25-Oct-2022 14:42:20 UTC] PHP Warning:  Undefined array key "login" in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 24
+[25-Oct-2022 14:42:41 UTC] PHP Warning:  Undefined array key "login" in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 24
+[25-Oct-2022 14:43:05 UTC] PHP Warning:  Undefined array key "login" in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 24
+[27-Oct-2022 17:01:15 UTC] PHP Warning:  Undefined array key "login" in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 24
+[24-Nov-2022 14:46:09 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[24-Nov-2022 14:49:50 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[24-Nov-2022 15:26:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[24-Nov-2022 15:28:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[24-Nov-2022 15:40:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[24-Nov-2022 15:44:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[24-Nov-2022 16:00:06 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[24-Nov-2022 16:09:45 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[24-Nov-2022 16:22:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[25-Nov-2022 05:43:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[25-Nov-2022 08:28:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 06:49:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 06:57:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 08:37:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 09:01:49 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 09:05:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 10:02:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 12:59:33 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 15:45:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 16:34:26 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 17:33:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 17:47:39 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 19:26:15 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 20:29:14 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[29-Nov-2022 22:40:49 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 02:18:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 06:08:58 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 07:13:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 10:12:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 10:25:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 10:26:28 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 10:26:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 10:29:39 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 10:33:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 10:34:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 10:39:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 13:45:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[30-Nov-2022 13:53:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[01-Dec-2022 03:35:13 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[01-Dec-2022 16:41:28 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 05:03:38 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 05:57:47 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 06:35:01 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 06:46:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 08:22:13 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 09:36:06 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 09:37:32 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 09:45:19 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 09:46:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 10:12:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 10:20:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 11:42:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 12:05:24 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 13:37:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 16:25:34 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 18:06:47 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 18:08:08 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 19:19:26 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 19:41:43 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 20:00:08 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 20:01:38 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[02-Dec-2022 20:10:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[03-Dec-2022 10:20:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[03-Dec-2022 16:07:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[03-Dec-2022 17:29:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[03-Dec-2022 17:34:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[03-Dec-2022 18:38:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[04-Dec-2022 09:47:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 11:24:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 11:44:25 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 11:50:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 11:54:38 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 13:28:32 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 13:33:06 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 13:36:29 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 13:38:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 13:46:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 15:06:39 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 15:14:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 15:22:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 15:22:30 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 15:25:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 15:27:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 15:32:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 16:38:55 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 16:53:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 17:15:18 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 17:32:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 18:07:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 18:46:54 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[05-Dec-2022 19:00:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 02:30:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 04:26:11 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 05:43:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 05:44:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 05:51:39 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 06:16:49 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 09:09:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 13:16:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 14:16:18 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 14:33:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 14:52:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 15:16:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 18:55:15 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 19:51:25 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[06-Dec-2022 19:55:54 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[07-Dec-2022 03:13:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[07-Dec-2022 12:21:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[07-Dec-2022 12:41:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[07-Dec-2022 14:19:29 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[07-Dec-2022 16:34:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[07-Dec-2022 17:13:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[08-Dec-2022 15:13:25 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[08-Dec-2022 16:10:26 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[08-Dec-2022 16:35:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[09-Dec-2022 04:36:33 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[09-Dec-2022 07:38:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[09-Dec-2022 07:39:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[09-Dec-2022 09:09:14 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[09-Dec-2022 17:07:37 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[10-Dec-2022 06:43:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[10-Dec-2022 14:24:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[10-Dec-2022 14:38:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[10-Dec-2022 16:07:50 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[10-Dec-2022 16:28:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[10-Dec-2022 17:14:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 06:04:13 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 09:31:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 09:51:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 10:44:13 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 10:59:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 11:29:40 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 11:44:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 13:50:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 14:03:32 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 14:30:39 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 14:37:37 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 17:02:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 18:30:43 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[11-Dec-2022 19:07:43 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[12-Dec-2022 02:25:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[12-Dec-2022 03:28:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[12-Dec-2022 03:57:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[12-Dec-2022 06:44:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[12-Dec-2022 08:45:39 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[12-Dec-2022 08:48:29 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[12-Dec-2022 08:58:24 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[12-Dec-2022 09:30:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[12-Dec-2022 17:44:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[12-Dec-2022 19:25:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[13-Dec-2022 00:55:44 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[13-Dec-2022 04:20:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[13-Dec-2022 09:41:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[13-Dec-2022 13:46:55 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[13-Dec-2022 18:12:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[13-Dec-2022 18:13:37 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[13-Dec-2022 18:29:56 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[13-Dec-2022 18:33:37 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[13-Dec-2022 21:15:09 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[13-Dec-2022 23:04:44 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[14-Dec-2022 07:17:24 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[14-Dec-2022 10:41:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[14-Dec-2022 11:00:02 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[14-Dec-2022 11:01:38 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[14-Dec-2022 15:00:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[14-Dec-2022 18:04:56 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[14-Dec-2022 18:29:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[14-Dec-2022 18:49:17 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[14-Dec-2022 18:54:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[14-Dec-2022 19:06:19 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[14-Dec-2022 20:19:45 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[14-Dec-2022 22:37:14 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[15-Dec-2022 01:50:30 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[15-Dec-2022 07:26:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[15-Dec-2022 07:34:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[15-Dec-2022 16:59:30 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[15-Dec-2022 21:07:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[16-Dec-2022 01:11:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[16-Dec-2022 01:47:01 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[16-Dec-2022 07:14:15 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[16-Dec-2022 13:07:30 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[16-Dec-2022 13:50:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[16-Dec-2022 16:15:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[16-Dec-2022 16:25:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[16-Dec-2022 16:25:34 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 04:09:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 05:31:17 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 05:36:17 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 06:29:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 07:03:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 07:12:55 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 12:26:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 12:38:19 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 13:22:37 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 13:31:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 14:05:14 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 14:24:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 14:53:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 15:22:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 15:27:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 15:39:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 16:48:56 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 18:19:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 20:11:45 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 20:30:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 20:48:26 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 20:55:25 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 21:18:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 21:40:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[17-Dec-2022 21:43:18 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 02:11:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 02:11:58 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 02:14:38 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 02:15:24 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 02:17:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 02:17:39 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 03:30:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 04:22:33 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 05:18:25 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 06:02:11 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 06:57:28 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 08:44:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 08:51:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 09:10:45 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 10:03:56 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 10:04:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 10:56:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 11:00:56 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 11:18:55 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 11:21:50 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 12:21:47 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 14:19:25 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 14:21:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 14:22:26 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 15:47:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 18:12:32 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 18:53:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 19:14:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 19:36:13 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 20:17:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 21:18:19 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 22:48:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 23:29:34 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[18-Dec-2022 23:54:13 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 00:10:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 00:13:08 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 00:20:02 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 00:32:08 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 01:28:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 01:53:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 03:21:44 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 04:36:29 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 05:03:17 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 05:28:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 05:42:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 06:07:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 06:11:38 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 06:23:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 06:46:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 08:01:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 08:28:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 08:29:17 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 08:38:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 08:40:08 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 08:49:54 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 09:11:26 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 09:30:33 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 09:31:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 09:31:38 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 09:35:14 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 09:46:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 09:46:56 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 09:51:37 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 09:56:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 10:05:32 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 10:05:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 10:18:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 10:20:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 10:24:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 10:27:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 10:28:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 10:36:29 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 11:18:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 11:22:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 11:24:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 11:27:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 11:29:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 11:52:43 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 12:03:09 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 13:08:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 13:29:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 13:33:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 13:35:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 13:51:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 13:51:47 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 14:40:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 14:42:34 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 14:48:19 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 14:49:34 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 14:50:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 14:51:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 14:52:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 14:54:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 14:55:40 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 15:02:49 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 15:19:02 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 15:36:24 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 15:40:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 15:47:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 15:51:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 15:57:32 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 16:10:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 16:12:02 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 16:15:39 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 16:17:37 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 16:21:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 16:34:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 16:41:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 16:50:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 16:53:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 16:56:13 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 17:02:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 17:09:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 17:22:09 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 17:37:08 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 17:43:43 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 18:21:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 18:55:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 19:21:24 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 20:51:33 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 21:05:30 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 21:57:44 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 22:04:06 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[19-Dec-2022 23:31:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 01:33:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 01:40:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 01:53:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 01:59:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 03:29:17 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 03:29:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 03:33:40 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 03:40:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 03:45:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 04:21:37 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 04:42:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 04:51:58 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 04:52:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 05:07:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 05:13:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 05:13:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 06:58:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 07:00:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 07:35:55 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 07:47:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 07:57:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[20-Dec-2022 08:40:33 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 10:22:56 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 12:08:15 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 12:43:15 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 13:48:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 13:57:19 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 14:24:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 15:16:24 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 15:17:08 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 16:05:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 16:38:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[20-Dec-2022 17:40:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 03:47:02 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 11:30:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 14:02:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 14:08:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 14:56:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 15:16:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 15:17:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 15:29:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 15:53:34 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 16:27:14 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 16:30:11 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 16:31:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 16:35:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 16:35:45 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 16:39:43 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 16:42:33 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 16:52:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 16:53:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 16:55:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 16:56:17 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 16:56:40 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:01:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:03:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:04:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:04:17 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:04:30 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:07:06 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:08:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:12:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:12:49 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:15:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:21:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:21:26 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:22:25 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:25:15 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:25:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:28:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:37:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:38:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:39:49 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:43:40 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:44:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:44:43 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:46:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:47:54 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:48:09 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:50:33 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:53:25 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:53:49 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 17:59:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:00:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:06:45 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:13:06 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:17:14 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:18:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:20:26 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:23:47 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:28:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:29:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:29:55 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:33:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:37:15 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:42:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:43:26 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:46:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:46:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:46:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:49:45 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:50:02 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 18:58:37 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:02:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:08:49 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:09:13 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:10:01 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:19:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:22:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:24:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:24:54 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:26:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:31:13 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:32:34 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:32:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:33:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:44:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 19:45:01 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 20:02:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 20:23:09 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 20:23:38 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 20:46:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[21-Dec-2022 20:47:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 20:48:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 20:58:54 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 20:59:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 21:06:33 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 21:08:14 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 21:10:09 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 21:13:11 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 21:17:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 21:24:49 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 21:32:08 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 21:35:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 21:48:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 21:56:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 21:58:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 22:01:32 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 22:08:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 22:12:28 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 22:16:06 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 22:20:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 22:21:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 22:26:40 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 22:35:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 22:35:15 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 22:57:43 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 23:02:06 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 23:04:37 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 23:10:01 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 23:21:06 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 23:48:13 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 23:50:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 23:50:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 23:54:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[21-Dec-2022 23:59:19 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 00:19:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 00:19:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 00:28:44 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 00:43:55 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 00:55:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 01:00:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 01:10:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 01:20:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 01:38:11 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 01:39:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 01:53:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 01:57:54 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 02:16:40 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 02:21:54 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 02:24:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 02:28:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 02:35:56 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 02:41:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 02:41:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 02:53:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 03:06:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 03:19:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 03:21:14 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 03:42:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 03:45:54 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 03:50:28 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 03:55:45 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 03:58:40 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 04:08:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 04:22:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 04:28:33 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 04:34:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 04:35:50 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 04:40:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 04:48:02 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 05:01:11 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 05:01:43 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 05:15:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 05:20:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 05:23:08 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 06:56:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 06:57:17 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:02:09 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:06:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:11:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:12:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:16:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:17:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:23:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:30:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:35:02 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:42:15 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:46:32 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:48:29 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 07:49:18 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:06:24 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:15:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:28:28 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:29:30 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:33:33 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:35:18 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:37:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:45:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:47:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:52:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:52:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[22-Dec-2022 08:55:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[22-Dec-2022 08:55:44 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:56:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[22-Dec-2022 08:56:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 08:58:38 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 09:00:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 09:00:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[22-Dec-2022 09:00:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 09:10:26 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 09:13:01 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 09:17:11 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 09:23:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 09:44:19 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 09:47:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 09:52:34 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 09:52:48 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 09:52:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 09:54:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 10:19:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 10:21:47 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 10:22:28 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 10:24:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 10:26:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 10:31:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 10:33:38 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 10:51:09 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 10:57:08 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 11:05:54 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 11:08:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 11:10:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 11:17:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 11:44:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 11:50:40 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 12:00:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 12:10:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 12:20:19 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 12:27:08 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 12:41:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 12:45:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 12:47:01 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:00:44 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:05:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:11:11 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:20:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:21:43 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:23:44 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:27:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:29:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:43:40 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:43:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:47:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:48:12 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:57:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 13:59:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:03:02 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:03:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:03:43 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:10:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:12:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:23:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:29:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:29:56 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:35:34 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:37:13 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:38:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:40:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:57:49 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:58:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 14:58:40 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 15:04:49 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 15:09:14 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 15:12:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 15:12:15 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 15:32:54 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 15:37:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 15:46:33 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 15:49:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 15:56:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 15:57:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 16:06:11 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 16:06:34 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 16:19:44 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 16:26:55 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 16:30:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 16:50:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 16:52:10 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 17:19:19 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 17:20:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 17:33:20 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 17:35:43 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 17:38:28 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 17:52:53 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 17:53:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 18:01:11 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 18:01:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 18:17:32 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 19:13:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 19:26:05 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 19:27:54 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 19:28:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 19:34:26 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 19:39:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 19:46:49 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 19:50:29 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 19:59:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 20:03:27 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 20:04:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 20:11:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 20:11:26 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 20:15:25 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 20:43:30 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 20:59:11 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 21:08:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 21:25:17 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 21:29:58 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 21:50:58 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 21:57:40 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 22:21:50 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 22:29:25 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 23:02:16 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 23:27:07 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 23:39:01 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 23:45:34 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 23:50:37 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 23:51:19 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[22-Dec-2022 23:56:04 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 00:01:24 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 00:04:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[23-Dec-2022 00:06:17 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 00:17:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 00:23:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 00:29:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 00:31:13 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 00:47:41 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 01:48:36 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 01:59:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 02:12:23 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 02:18:29 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 02:24:18 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 02:30:32 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 02:40:24 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 02:42:56 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 03:21:00 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 03:50:57 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 03:51:46 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 04:41:01 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 04:54:21 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 04:58:31 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 05:05:38 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 05:07:22 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 05:15:02 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 05:15:52 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 05:26:09 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 05:30:11 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 05:42:59 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 05:43:17 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 05:56:19 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 05:56:35 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 06:12:03 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 06:25:50 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 06:41:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 07:10:55 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 08:50:42 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 09:50:51 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 12:00:06 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 12:08:14 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33
+[23-Dec-2022 14:45:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[23-Dec-2022 14:45:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[23-Dec-2022 14:56:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[23-Dec-2022 14:58:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[23-Dec-2022 14:59:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[23-Dec-2022 17:08:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php(3): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[24-Dec-2022 05:15:50 UTC] PHP Warning:  Undefined variable $logo in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/profile/profile.php on line 33

@@ -1,0 +1,33 @@
+html {
+  background-color:#292C3A;
+  font-size:10px;
+  text-align: center;
+  font-family: 'Mulish', sans-serif;
+}
+body{
+  font-size:inherit;
+}
+.box-container {
+  height:18rem;
+  width:18rem;
+  background:#15d676;
+  text-align:center;
+  border-radius:50%;
+  color:#fff;
+  font-size:13rem;
+  margin:20rem auto 3rem auto;
+  box-shadow: rgba(232, 229, 229, 0.2) 0px 1px 0px, rgba(209, 210, 212, 0.2) 0px 8px 24px, rgba(247, 246, 246, 0.1) 0px 16px 48px; 
+}
+.header-message {
+  letter-spacing: 1.1px;
+ font-size:1.9rem;
+ color:rgb(245, 245, 245);
+ 
+}
+.hint-message {
+   letter-spacing: 1.1px;
+  font-size:1.6rem;
+  margin:-1rem;
+  color:rgb(245, 245, 245);
+  
+}

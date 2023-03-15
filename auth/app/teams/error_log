@@ -1,0 +1,408 @@
+[19-Oct-2022 07:35:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[24-Nov-2022 08:29:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[24-Nov-2022 12:46:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[24-Nov-2022 13:07:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[24-Nov-2022 13:07:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[25-Nov-2022 11:07:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[29-Nov-2022 07:24:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[29-Nov-2022 09:03:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[29-Nov-2022 09:58:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[29-Nov-2022 09:58:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[29-Nov-2022 10:00:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[29-Nov-2022 15:04:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[29-Nov-2022 19:17:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't work on us. ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[29-Nov-2022 19:17:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't work on us. ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[29-Nov-2022 19:17:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't work on us. ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[29-Nov-2022 19:18:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't work on us. ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[29-Nov-2022 19:21:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't work on us. ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[30-Nov-2022 06:40:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't work on us. ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[30-Nov-2022 06:54:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't work on us. ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[30-Nov-2022 06:54:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't work on us. ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[30-Nov-2022 10:31:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/create_team.php(2): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[30-Nov-2022 10:33:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[30-Nov-2022 12:18:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[02-Dec-2022 09:32:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[02-Dec-2022 10:17:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[02-Dec-2022 10:49:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[02-Dec-2022 10:52:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[02-Dec-2022 12:15:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[02-Dec-2022 12:16:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[03-Dec-2022 12:38:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[03-Dec-2022 12:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[03-Dec-2022 12:39:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[04-Dec-2022 09:46:36 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php:2207
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/create_team.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2207
+[05-Dec-2022 11:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[05-Dec-2022 13:39:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[05-Dec-2022 13:39:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[05-Dec-2022 17:14:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[05-Dec-2022 17:18:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[06-Dec-2022 16:26:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[08-Dec-2022 10:54:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[10-Dec-2022 17:11:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[12-Dec-2022 03:27:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/create_team.php(2): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[12-Dec-2022 11:11:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[12-Dec-2022 11:12:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[14-Dec-2022 18:51:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[16-Dec-2022 16:23:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[17-Dec-2022 05:28:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[17-Dec-2022 18:18:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[18-Dec-2022 08:48:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[18-Dec-2022 08:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[18-Dec-2022 10:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 04:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 06:43:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 06:49:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's why HACKERS always WIN ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 06:49:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's why HACKERS always WIN ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 06:49:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's why HACKERS always WIN ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 06:53:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's why HACKERS always WIN ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 06:54:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's why HACKERS always WIN ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 07:01:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's why HACKERS always WIN ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 07:06:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 07:07:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's why HACKERS always WIN ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 09:04:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 09:49:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 11:55:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 13:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 14:52:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 14:53:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 14:53:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 14:55:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 14:59:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 15:21:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's why HACKERS always WIN ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 15:39:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 15:41:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 15:46:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 15:47:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 15:47:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 15:55:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 16:07:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 16:08:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 16:08:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't learn to hack, hack to learn. 😉' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[19-Dec-2022 16:09:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 16:09:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 16:09:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 16:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[19-Dec-2022 16:11:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[20-Dec-2022 04:16:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[20-Dec-2022 04:16:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[20-Dec-2022 04:47:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[20-Dec-2022 04:47:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[20-Dec-2022 04:48:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[20-Dec-2022 10:36:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's why HACKERS always WIN ' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[20-Dec-2022 16:32:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[21-Dec-2022 12:40:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[21-Dec-2022 17:18:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[21-Dec-2022 17:18:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[21-Dec-2022 17:36:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't keep secrets.' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[21-Dec-2022 17:37:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't keep secrets.' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[21-Dec-2022 17:37:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't keep secrets.' )' at line 1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php:42
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(42): mysqli_query()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(62): add()
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 42
+[21-Dec-2022 18:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[21-Dec-2022 18:25:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[21-Dec-2022 18:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[21-Dec-2022 19:09:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[21-Dec-2022 19:32:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[22-Dec-2022 04:10:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[22-Dec-2022 04:10:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[22-Dec-2022 04:42:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[22-Dec-2022 04:55:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[22-Dec-2022 05:20:27 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: The following recipients failed: januszskwadrat@gmail.com: Outgoing mail from "ctf-noreply@dsph.org" has been suspended.
+ in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php:2059
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/create_team.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2059
+[22-Dec-2022 05:21:53 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: The following recipients failed: vaishnavppunni5@gmail.com: Outgoing mail from "ctf-noreply@dsph.org" has been suspended.
+ in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php:2059
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/create_team.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2059
+[22-Dec-2022 07:28:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[22-Dec-2022 07:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[22-Dec-2022 08:54:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/create_team.php(2): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[22-Dec-2022 08:55:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/create_team.php(2): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[22-Dec-2022 08:55:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[22-Dec-2022 08:59:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/create_team.php(2): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[22-Dec-2022 12:15:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[22-Dec-2022 14:00:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[22-Dec-2022 14:37:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[23-Dec-2022 06:15:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[23-Dec-2022 09:18:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[23-Dec-2022 11:31:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[23-Dec-2022 14:45:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[23-Dec-2022 14:58:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[23-Dec-2022 15:00:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[23-Dec-2022 15:05:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[23-Dec-2022 15:43:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[23-Dec-2022 15:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php on line 58
+[23-Dec-2022 19:20:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[24-Dec-2022 07:18:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[24-Dec-2022 08:06:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[24-Dec-2022 08:06:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7
+[24-Dec-2022 11:33:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php:7
+Stack trace:
+#0 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php(7): mysqli_connect()
+#1 /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/teams/teams.php(4): include('/home/dsphorg/p...')
+#2 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/conn.php on line 7

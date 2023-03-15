@@ -1,0 +1,47 @@
+[25-Feb-2023 17:55:32 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/Rule.php on line 57
+[25-Feb-2023 17:55:32 UTC] PHP Warning:  Undefined variable $row3 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/Rule.php on line 75
+[25-Feb-2023 17:55:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/Rule.php on line 75
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Undefined variable $row in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 8
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 8
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Undefined variable $row in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 25
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 25
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 53
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Undefined variable $row1 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 71
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 71
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Undefined variable $row4 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 101
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 101
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Undefined variable $row4 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 108
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 108
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Undefined variable $sql3 in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 108
+[28-Feb-2023 05:55:49 UTC] PHP Warning:  Attempt to read property "num_rows" on null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 108
+[28-Feb-2023 05:55:49 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/dashboard.php on line 108
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 4
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 8
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 61
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 79
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154
+[01-Mar-2023 08:16:43 UTC] PHP Warning:  Undefined variable $username in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/app/ctf.php on line 154

@@ -1,0 +1,4 @@
+[19-Dec-2022 21:53:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dsphorg/public_html/damncon.dsph.org/ctf/auth/vendor/phpmailer/phpmailer/src/OAuth.php on line 36
